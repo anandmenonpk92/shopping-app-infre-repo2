@@ -1,6 +1,6 @@
 ---
 
-name: "Prod Infra Build"
+name: "Prod Infra Build."
 
 on:
   workflow_dispatch:
