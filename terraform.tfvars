@@ -1,0 +1,5 @@
+project_name = "shopping"
+project_env = "prod"
+hosted_zone_name = "anand.fun"
+hosted_zone_id = "Z00857751HK1MJ71STFU2"
+hostname = "shopping"
