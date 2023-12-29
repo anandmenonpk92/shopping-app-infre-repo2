@@ -4,6 +4,8 @@ name: "Prod Infra destroy"
 
 on:
   workflow_dispatch:
+    inputs:
+
 jobs:
 
   build:
